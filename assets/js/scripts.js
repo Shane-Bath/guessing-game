@@ -121,7 +121,7 @@ gameArea()
 
 
 
-//Shuffle game cards 
+//Shuffle game cards in an array 
 
 //check for matches 
 

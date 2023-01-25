@@ -6,6 +6,6 @@ body {
 .board {
     display: flex;
     flex-wrap: wrap;
-    height: 300px;
-    width: 400px;
+    height: auto;
+    width: 600px;
 }

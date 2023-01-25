@@ -23,3 +23,12 @@ the board will be recorded
 -   A button to select difficulty, easy (12), hard (18) extreme (24)
 
 
+##
+List of sources:
+-   https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event
+-   Google font 
+-   https://www.w3schools.com/howto/howto_js_image_grid.asp
+-   https://www.w3schools.com/howto/howto_css_flip_image.asp
+-   stack overflow
+-   
+
