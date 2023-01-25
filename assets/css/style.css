@@ -1,3 +1,4 @@
-#test {
-    color: blue;
+#board {
+    display: flex;
+    flex-direction: column;
 }
