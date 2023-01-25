@@ -1,9 +1,11 @@
 body {
     font-family: 'Titan One', cursive;
-    font-size: 48px;
+    font-size: 24px;
 }
 
-#board {
+.board {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
 }
